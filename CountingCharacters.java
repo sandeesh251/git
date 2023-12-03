@@ -14,7 +14,7 @@ public class CountingCharacters {
 		sc.close();
 		charCount(str);
 		System.out.println("Adding new text.....");
-		
+		System.out.println("second change in  line ");
 
 	}
 
