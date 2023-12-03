@@ -1,3 +1,4 @@
+
 package programs;
 
 import java.util.Scanner;
@@ -12,6 +13,8 @@ public class CountingCharacters {
 		String str = sc.nextLine();
 		sc.close();
 		charCount(str);
+		System.out.println("Adding new text.....");
+		
 
 	}
 
