@@ -32,6 +32,7 @@ public class CountingCharacters {
 		for (Character key : set) {
 			System.out.println(key + ":" + char2.get(key));
 		}
+		System.out.println("3rd commit in the code");
 	}
 
 }
